@@ -33,6 +33,8 @@ This project analyses Suicide dataset of Indian states for year 2001-2012. The d
 9. Major reasons for suicide attempt
 10. Major reasons where suicide rate of female is more than male
 
+***Data Source*** : Kaggle.com
+
 ***Tableau*** was used to plot a heat-map on a geographical map of India. Cleaned data set was taken after pre-processing part and that was used in Tableau.
 
 ![India HeatMap](IndiaHeatMap.png)
